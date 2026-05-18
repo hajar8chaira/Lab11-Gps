@@ -13,10 +13,10 @@ L'objectif de ce laboratoire est de développer une application Android gérant 
 
 ### Captures d'écran de la configuration et de l'exécution
 
-| Configuration du Manifest et Permissions | Dépendances Gradle et User Agent | Suivi GPS et Rendu Cartographique |
-| :---: | :---: | :---: |
-| ![Manifest et Permissions](img-lab11-dev/1.png) | ![Configuration osmdroid](img-lab11-dev/2.png) | ![Exécution Émulateur](img-lab11-dev/3.png) |
-| Déclaration des permissions réseau et localisation requises pour le fonctionnement | Configuration asynchrone d'osmdroid et spécification d'un User Agent académique | Affichage du marqueur dynamique centré sur les coordonnées simulées via Extended Controls |
+| Configuration du Manifest et Permissions  | Suivi GPS et Rendu Cartographique |
+| :---: | :---: |
+| ![Manifest et Permissions](img-lab11-dev/1.png)  | ![Exécution Émulateur](img-lab11-dev/3.png) |
+| Déclaration des permissions réseau et localisation requises pour le fonctionnement  | Affichage du marqueur dynamique centré sur les coordonnées simulées via Extended Controls |
 
 ---
 
