@@ -50,9 +50,3 @@ Afin d'éviter d'instancier plusieurs marqueurs superflus à chaque micro-mouvem
 ### Étape 5 : Gestion des puces de localisation de l'émulateur
 Pour assurer un suivi réactif aux tests effectués sur l'émulateur, l'application écoute simultanément les fournisseurs matériels (`GPS_PROVIDER`) et réseau (`NETWORK_PROVIDER`). Le paramètre de distance minimale entre deux rafraîchissements a été fixé à `0` mètre, ce qui force la carte à se repositionner immédiatement lors de chaque clic sur le bouton *Set Location* de la fenêtre *Extended Controls*.
 
----
-
-`map.onPause()`) en parfaite synchronisation avec le cycle de vie de l'activité Android.
-
----
-**Rapport de TP - 2026**
